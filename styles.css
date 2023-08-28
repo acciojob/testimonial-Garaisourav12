@@ -14,12 +14,10 @@
 	background-color: white;
 	margin: 10px;
 	padding: 8px;
+	border: 1px solid lightgray;
 }
 h1{
 	margin: 10px;
-}
-.left{
-	text-align: left;
 }
 .right{
 	text-align: right;
